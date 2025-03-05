@@ -8,3 +8,5 @@ function validateEmail(email) {
 console.log(validateEmail("abc@bridgelabz.co"));
 console.log(validateEmail("abc.xyz@bridgelabz.co.in"));
 console.log(validateEmail("abc@bridgelabz.com"));
+console.log(validateEmail("xyz@bridgelabz.co"));//UC3
+console.log(validateEmail("abc@xyz.co"));//UC3
