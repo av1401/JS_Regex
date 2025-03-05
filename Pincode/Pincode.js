@@ -8,3 +8,4 @@ function validatePinCode(pinCode) {
 console.log(validatePinCode("400088")); //UC1
 console.log(validatePinCode("000088")); //UC1
 console.log(validatePinCode("A400088")); //UC2
+console.log(validatePinCode("400088B")); //UC3
